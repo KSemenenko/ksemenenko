@@ -1,110 +1,128 @@
 # Hi, I'm Konstantin 👋
 
-📍 **Pau, France** | 🇺🇦 **Ukrainian engineer** | ⚙️ **Founder & CTO @ Managed Code**
+📍 **Pau, France** | ⚙️ **Founder @ Managed Code** | 📘 **Author of C# Interview Guide**
 
-I build **AI infrastructure, knowledge systems and developer tools** on the .NET ecosystem. My work spans enterprise AI agents, GraphRAG knowledge graphs, distributed actor systems with Orleans and high‑performance backend services.
+I build AI-native product systems on the .NET stack — knowledge platforms, GraphRAG pipelines, multi-agent workflows, Orleans infrastructure, and the developer tooling around them.
 
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Orleans](https://img.shields.io/badge/-Orleans-0078D4?style=flat-square)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/-Semantic%20Kernel-5B21B6?style=flat-square)
+![Microsoft.Extensions.AI](https://img.shields.io/badge/-Microsoft.Extensions.AI-111827?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/-GraphRAG-2563EB?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-000000?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square)
 
-> Deep in agentic engineering mode — shipping real systems with AI agents, knowledge graphs and distributed backends.
+> Building systems that carry context, take action, and fit into real business workflows.
 
-🍭 **[AIBase](https://aibase.fr)** – enterprise AI knowledge platform that connects internal data, tools and workflows into usable AI assistants.
+I lead **[Managed Code](https://www.managed-code.com/)** — a product design and development studio where AI engineering, custom development, and design-led execution come together in one operating system.
 
-## Current Projects
+🍭 **[AIBase](https://aibase.fr/)** — enterprise knowledge platform for multi-agent workflows, retrieval, orchestration, private deployment, and real operational use.
 
-- 🧠 **[AIBase](https://aibase.fr)** – Enterprise knowledge system with GraphRAG, agents and internal company data.
-- ⚙️ **[MCAF](https://mcaf.managed-code.com)** – Managed Code AI Framework for building software with coding agents (tests, docs and memory in one repo).
-- 🌐 **[GraphRAG for .NET](https://github.com/managedcode/graphrag)** – End‑to‑end GraphRAG pipeline with semantic deduplication and multiple graph stores.
-- 🔗 **[SiloLinker](https://github.com/managedcode/SiloLinker)** – Distributed link infrastructure on Orleans for gated content and creator monetization.
-- 📊 **[Keyload](https://keyload.cloud)** – Monitoring and load testing platform for websites, APIs and infrastructure.
+## Current Focus
 
-## Open Source Ecosystem
+- 🧠 **[AIBase](https://aibase.fr/)** — the core platform for enterprise knowledge systems, agent orchestration, private deployments, and AI workflows that need structure.
+- 🧭 **[MCAF](https://mcaf.managed-code.com/)** — Managed Code AI Framework for building software with coding agents through repository memory, explicit rules, docs, tests, and repeatable delivery.
+- 🌐 **[GraphRAG for .NET](https://github.com/managedcode/graphrag)** — a .NET-first GraphRAG stack with indexing workflows, semantic deduplication, community detection, and pluggable graph stores.
+- 📡 **[MCPGateway](https://github.com/managedcode/MCPGateway)** — searchable MCP and AI tool gateway for .NET, built around unified execution and smarter tool discovery.
+- 🧰 **[CodexSharpSDK](https://github.com/managedcode/CodexSharpSDK)** — CLI-first .NET SDK for OpenAI Codex CLI with typed thread APIs and structured outputs.
+- 🤖 **[ClaudeCodeSharpSDK](https://github.com/managedcode/ClaudeCodeSharpSDK)** — CLI-first .NET SDK for Claude Code with typed thread APIs and streamed events.
+- 🧠 **[MLXSharp](https://github.com/managedcode/MLXSharp)** — .NET wrapper for Apple MLX with Microsoft.Extensions.AI integration.
+- 🔗 **[SiloLinker](https://github.com/managedcode/SiloLinker)** — distributed link infrastructure on Orleans for gated content, temporary links, and monetization flows.
+- 📊 **[Keyload](https://keyload.cloud/)** — monitoring, incident detection, load testing, and operational visibility for websites, APIs, and infrastructure.
 
-### Orleans infrastructure
+## AIBase in Motion
 
-- **[Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR)** – Scalable SignalR backplane using Orleans actors.
-- **[Orleans.Identity](https://github.com/managedcode/Orleans.Identity)** – ASP.NET Identity integration for Orleans grains.
-- **[Orleans.RateLimiting](https://github.com/managedcode/Orleans.RateLimiting)** – Rate‑limiting algorithms (fixed window, sliding window, token bucket).
-- **[Orleans.Balancer](https://github.com/managedcode/Orleans.Balancer)** – Grain load balancing and silo rebalancing.
-- **[Orleans.Indexing](https://github.com/managedcode/Orleans.Indexing)** – Lucene‑based indexing for grain state.
-- **[Orleans.Graph](https://github.com/managedcode/Orleans.Graph)** – Graph processing primitives for Orleans.
+These are the kinds of systems I’m interested in building around AIBase:
 
-### Core libraries
+- ⚖️ **[AI Patent Attorney](https://www.managed-code.com/case-study/ai-patent-attorney)** — AI copilot for patent and trademark operations, document handling, reporting, and process clarity.
+- 🎫 **[Ticket Booking Copilot](https://www.managed-code.com/case-study/ticket-booking-copilot)** — multi-step travel orchestration across flights, trains, schedules, budgets, and live APIs.
+- 🍱 **[Food Delivery Copilot](https://www.managed-code.com/case-study/aibase-in-action-food-delivery-copilot)** — a compact orchestration testbed that validated AIBase under dynamic constraints and real-time decisions.
 
-- **[Storage](https://github.com/managedcode/Storage)** – Abstraction over cloud blob storage providers with controllers and SignalR endpoints.
-- **[Database](https://github.com/managedcode/Database)** – Unified interface for document‑oriented databases.
-- **[TimeSeries](https://github.com/managedcode/TimeSeries)** – Lock‑free time‑bucket metrics primitives.
-- **[Communication](https://github.com/managedcode/Communication)** – Result pattern and pagination for ASP.NET Core.
-- **[MimeTypes](https://github.com/managedcode/MimeTypes)** – MIME type detection and mapping.
-- **[Queue](https://github.com/managedcode/Queue)** – Simple message queue abstraction.
+## Selected Systems & Libraries
 
-### AI tooling
+### AI systems & developer tooling
 
-- **[GraphRAG](https://github.com/managedcode/graphrag)**
-- **[RagSharp](https://github.com/managedcode/RagSharp)**
-- **[MCPGateway](https://github.com/managedcode/MCPGateway)**
-- **[CodexSharpSDK](https://github.com/managedcode/CodexSharpSDK)**
-- **[ClaudeCodeSharpSDK](https://github.com/managedcode/ClaudeCodeSharpSDK)**
-- **[MLXSharp](https://github.com/managedcode/MLXSharp)**
+- **[GraphRAG for .NET](https://github.com/managedcode/graphrag)** — graph-based Retrieval-Augmented Generation for modern .NET workloads.
+- **[MCAF](https://github.com/managedcode/MCAF)** — framework for building software products together with AI coding agents.
+- **[MCPGateway](https://github.com/managedcode/MCPGateway)** — searchable MCP gateway for .NET.
+- **[CodexSharpSDK](https://github.com/managedcode/CodexSharpSDK)** — OpenAI Codex CLI SDK for .NET.
+- **[ClaudeCodeSharpSDK](https://github.com/managedcode/ClaudeCodeSharpSDK)** — Claude Code SDK for .NET.
+- **[RagSharp](https://github.com/managedcode/RagSharp)** — RAG infrastructure experiments for .NET.
+- **[MLXSharp](https://github.com/managedcode/MLXSharp)** — Apple MLX integration for .NET.
 
-Mission: make **.NET a first‑class AI platform**.
+### Orleans & distributed systems
 
----
+- **[Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR)** — scalable SignalR backplane powered by Orleans.
+- **[Orleans.Identity](https://github.com/managedcode/Orleans.Identity)** — ASP.NET Identity integration for Orleans grains.
+- **[Orleans.RateLimiting](https://github.com/managedcode/Orleans.RateLimiting)** — rate limiting algorithms for distributed applications.
+- **[Orleans.Balancer](https://github.com/managedcode/Orleans.Balancer)** — load balancing and activation rebalancing across silos.
+- **[Orleans.Indexing](https://github.com/managedcode/Orleans.Indexing)** — search and indexing for grain state.
+- **[Orleans.Graph](https://github.com/managedcode/Orleans.Graph)** — graph-oriented primitives for Orleans workloads.
 
-## GitHub Activity
+### Core infrastructure
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ksemenenk0)
+- **[Storage](https://github.com/managedcode/Storage)** — universal interface for cloud blob storage providers.
+- **[Communication](https://github.com/managedcode/Communication)** — result pattern, pagination, and explicit error handling for .NET.
+- **[Database](https://github.com/managedcode/Database)** — unified interface for document-oriented databases.
+- **[TimeSeries](https://github.com/managedcode/TimeSeries)** — high-performance time-bucket metrics primitives.
+- **[EnvironmentDetector](https://github.com/managedcode/EnvironmentDetector)** — environment detection for tests, containers, and runtime contexts.
+- **[MAUIAppVersion](https://github.com/managedcode/MAUIAppVersion)** — GitHub Action for MAUI version automation.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksemenenk0&show_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ksemenenk0&theme=tokyonight)
+## Writing & Ideas
 
----
+I write about AI workflows, product systems, software architecture, accessibility, performance, and the operating reality of building things that need to survive contact with production.
 
-## Latest Blog Posts
+- **[C# vs Python Energy Consumption on Hot Paths](https://www.managed-code.com/blog-post/csharp-vs-python-node-green-programming)**  
+- **[Implementing SOLID Principles in Development and DevOps](https://www.managed-code.com/blog-post/implementing-solid-principles-in-development-and-devops)**  
+- **[Design That Includes Everyone](https://www.managed-code.com/blog-post/design-that-includes-everyone)**  
+- **[How to Build a Personal Website with Webflow](https://www.managed-code.com/blog-post/how-to-build-a-personal-website-with-webflow)**  
+- **[Webflow vs WordPress: A Practical Comparison for Modern Teams](https://www.managed-code.com/blog-post/webflow-vs-wordpress-a-practical-comparison-for-modern-teams)**  
+- **[All articles](https://www.managed-code.com/blog)**
 
-- [Implementing SOLID principles in development and DevOps](https://www.managed-code.com/blog-post/implementing-solid-principles-in-development-and-devops)
-- [Design that includes everyone – accessibility and inclusive design](https://www.managed-code.com/blog-post/design-that-includes-everyone)
-- [AI in UI design – avoiding AI slop](https://www.managed-code.com/blog-post/ai-slop-in-design)
-- [C# vs Python vs Node energy consumption](https://www.managed-code.com/blog-post/csharp-vs-python-node-green-programming)
-- [Figma to Webflow with AI – defining tokens and constraints](https://www.managed-code.com/blog-post/figma-to-webflow-with-ai)
+## Signals
 
----
+- 📘 **[C# Interview Guide](https://www.amazon.com/dp/B0CTH5DH95)** — published with Packt.
+- 🏥 **Healthcare** — AI Copilot work that improved onboarding time by **40%**.
+- 💳 **Fintech** — web platform work that launched an MVP in **6 weeks**.
+- 🛒 **E-commerce** — RAG system work that cut manual operations by **60%**.
+- 🎓 **Education** — mobile product work that reached **10K users in the first month**.
+- 📦 Growing a connected ecosystem around AI, Orleans, and .NET infrastructure through **[Managed Code on GitHub](https://github.com/managedcode)**.
+
+## Now
+
+- Turning AIBase into a stronger memory-and-action layer for companies.
+- Building a .NET-native stack for GraphRAG, coding agents, and AI execution.
+- Growing an ecosystem around Orleans, AI infrastructure, and developer tooling.
+- Writing and shipping in public, with a stronger emphasis on systems that remain understandable as they scale.
 
 ## Connect
 
-- 🌐 [Website](https://ksemenenko.com)
-- 🏢 [Managed Code](https://managed-code.com)
-- 🐦 [Twitter / X](https://x.com/ksemenenk0)
-- 💼 [LinkedIn](https://linkedin.com/in/ksemenenk0)
-- 📦 [Open-source organization](https://github.com/managedcode)
-
----
-
-## Recognition & Media
-
-- Author of **C# Interview Guide** (Packt Publishing).
-- Featured in **DesignRush** discussing scalable tech stacks for educational apps:contentReference[oaicite:0]{index=0}.
-- Advocate for human‑centred design and sustainable software:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}.
-- Writes about inclusive design, AI workflows and distributed systems:contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}.
+[![Website](https://img.shields.io/badge/-Website-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ksemenenko.com)
+[![Managed Code](https://img.shields.io/badge/-Managed%20Code-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://www.managed-code.com)
+[![AIBase](https://img.shields.io/badge/-AIBase-2563EB?style=flat-square&logo=sparkfun&logoColor=white)](https://aibase.fr)
+[![Amazon](https://img.shields.io/badge/-C%23%20Interview%20Guide-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0CTH5DH95)
+[![X](https://img.shields.io/badge/-@ksemenenk0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ksemenenk0)
+[![LinkedIn](https://img.shields.io/badge/-Konstantin%20Semenenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksemenenk0)
+[![YouTube](https://img.shields.io/badge/-Managed%20Code-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@managed-code)
+[![GitHub Org](https://img.shields.io/badge/-managedcode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/managedcode)
 
 ---
 
 ### Philosophy
 
-> Good software comes from clear architecture, strong typing, good tests, detailed documentation and thoughtful design. AI should amplify engineering discipline, not replace it.
+> “Great products don’t shout — they simply work.”
+
+I care about systems with clear architecture, good names, strong typing, useful documentation, healthy constraints, and enough precision to stay readable while they grow.
 
 <details>
 <summary>Random Facts</summary>
 
-- I turn ideas into working products with AI and .NET.
-- I drink lots of coffee from Pau.
-- I am always experimenting with new ways to integrate agents into real workflows.
-- I still believe strongly in documentation and tests.
+- I think .NET + Orleans is still underestimated for AI systems that need real structure.
+- I care about architecture, UX, naming, and operations with equal intensity.
+- I like systems that can explain themselves.
+- I enjoy building products, platforms, and ecosystems in parallel.
+
 </details>
