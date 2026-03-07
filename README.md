@@ -1,16 +1,25 @@
-## Hi there 👋
+# Konstantin Semenenko
 
-<!--
-**KSemenenko/ksemenenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CTO @ Managed Code  
+Building AI infrastructure, distributed systems and developer tools on .NET
 
-Here are some ideas to get you started:
+🇫🇷 Pau, France  
+🇺🇦 Ukrainian engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I am a software engineer and technology founder with 20+ years of experience building distributed systems, developer platforms and high-load services.
+
+My work focuses on:
+
+- AI infrastructure
+- distributed systems
+- knowledge systems
+- developer tooling
+- the .NET ecosystem
+
+I build real production systems around AI instead of demos.
+
+Currently I run **Managed Code**, a boutique engineering studio where we design and build complex software systems, AI platforms and developer tools.
