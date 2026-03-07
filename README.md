@@ -74,6 +74,7 @@ These are examples of the kinds of systems I’m interested in building around A
 * **[MCPGateway](https://github.com/managedcode/MCPGateway)** — searchable MCP gateway for .NET.
 * **[CodexSharpSDK](https://github.com/managedcode/CodexSharpSDK)** — CLI‑first .NET SDK for OpenAI Codex workflows.
 * **[ClaudeCodeSharpSDK](https://github.com/managedcode/ClaudeCodeSharpSDK)** — CLI‑first .NET SDK for Claude Code workflows.
+* **[MarkItDown](https://github.com/managedcode/MarkItDown)** — C# tool for converting files and office documents to Markdown.
 
 ### Orleans & distributed systems
 
@@ -87,7 +88,6 @@ These are examples of the kinds of systems I’m interested in building around A
 
 * **[Storage](https://github.com/managedcode/Storage)** — universal interface for cloud blob storage providers.
 * **[Communication](https://github.com/managedcode/Communication)** — result pattern, pagination and explicit error handling for .NET.
-* **[Database](https://github.com/managedcode/Database)** — unified interface for document‑oriented databases.
 * **[TimeSeries](https://github.com/managedcode/TimeSeries)** — high‑performance time‑bucket metrics primitives.
 
 ---
@@ -96,12 +96,6 @@ These are examples of the kinds of systems I’m interested in building around A
 
 I write about AI workflows, product systems, software architecture, accessibility, performance and the operating reality of
 building systems that need to survive contact with production:
-
-* [C# vs Python Energy Consumption on Hot Paths](https://www.managed-code.com/blog-post/csharp-vs-python-node-green-programming)
-* [Implementing SOLID Principles in Development and DevOps](https://www.managed-code.com/blog-post/implementing-solid-principles-in-development-and-devops)
-* [Design That Includes Everyone](https://www.managed-code.com/blog-post/design-that-includes-everyone)
-* [How to Build a Personal Website with Webflow](https://www.managed-code.com/blog-post/how-to-build-a-personal-website-with-webflow)
-* [Webflow vs WordPress: A Practical Comparison for Modern Teams](https://www.managed-code.com/blog-post/webflow-vs-wordpress-a-practical-comparison-for-modern-teams)
 
 You can find all posts on [my blog](https://www.managed-code.com/blog).
 
