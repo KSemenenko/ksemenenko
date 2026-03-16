@@ -14,6 +14,7 @@ Made in Ukraine 🇺🇦
 - 🖥️ **[dotPilot](https://github.com/managedcode/dotPilot)** — local-first desktop control plane for AI agents: Orleans + Uno Platform + adapters for Codex, Claude Code, GitHub Copilot, and local models
 - ⚙️ **[MCAF](https://mcaf.managed-code.com/)** — framework for building software with AI coding agents — repo memory, rules, tests, repeatable delivery
 - 🌐 **[GraphRAG for .NET](https://github.com/managedcode/graphrag)** — full .NET 10 port of Microsoft's GraphRAG with pluggable graph stores
+- 🔗 **[SiloLinker](https://github.com/managedcode/SiloLinker)** — distributed link infrastructure for gated content, temporary access, and monetisation flows
 - 📚 **[dotnet/skills](https://github.com/dotnet/skills)** — contributing to the official .NET skills for AI coding agents
 - 📊 **[Keyload](https://keyload.cloud/)** — monitoring & incident detection for websites, APIs, infrastructure
 
@@ -27,20 +28,13 @@ We maintain production-grade .NET libraries. If it's here, it's used somewhere r
 
 **Orleans** — [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) · [Orleans.RateLimiting](https://github.com/managedcode/Orleans.RateLimiting) · [Orleans.Identity](https://github.com/managedcode/Orleans.Identity) · [Orleans.Balancer](https://github.com/managedcode/Orleans.Balancer) · [Orleans.Indexing](https://github.com/managedcode/Orleans.Indexing)
 
-**Infrastructure** — [Storage](https://github.com/managedcode/Storage) · [Communication](https://github.com/managedcode/Communication) · [TimeSeries](https://github.com/managedcode/TimeSeries) · [SiloLinker](https://github.com/managedcode/SiloLinker)
+**Infrastructure** — [Storage](https://github.com/managedcode/Storage) · [Communication](https://github.com/managedcode/Communication) · [TimeSeries](https://github.com/managedcode/TimeSeries)
 
 ---
 
 #### Book
 
 📖 **[C# Interview Guide](https://www.amazon.com/dp/B0CTH5DH95)** — Packt, 2024. Fundamentals, advanced C#, interview strategy, and the career stuff nobody teaches you. [Amazon](https://www.amazon.com/dp/B0CTH5DH95) · [O'Reilly](https://www.oreilly.com/library/view/c-interview-guide/9781805120469/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KSemenenko&show_icons=true&theme=transparent&hide_border=true&title_color=0c445c&icon_color=008080&text_color=333" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSemenenko&layout=compact&theme=transparent&hide_border=true&title_color=0c445c&text_color=333&langs_count=8" height="150">
-</p>
 
 ---
 
