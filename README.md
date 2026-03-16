@@ -106,11 +106,11 @@ The **[Managed Code org](https://github.com/managedcode)** on GitHub is an open 
 ---
 
 <p align="center">
-  <a href="https://x.com/ksemenenk0">Twitter</a> |
   <a href="https://www.ksemenenko.com">website</a> |
   <a href="https://www.managed-code.com">managed code</a> |
   <a href="https://aibase.fr/">aibase</a> |
   <a href="https://dotpilot.managed-code.com/">dotpilot</a> |
   <a href="https://www.linkedin.com/in/ksemenenk0">linkedin</a> |
   <a href="https://www.youtube.com/@managed-code">youtube</a>
+  <a href="https://x.com/ksemenenk0">twitter</a> |
 </p>
