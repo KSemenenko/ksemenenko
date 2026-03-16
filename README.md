@@ -4,8 +4,6 @@ I'm Konstantin — founder & CTO at **[Managed Code](https://www.managed-code.co
 
 20+ years in software, mass of open source, one [book](https://www.amazon.com/dp/B0CTH5DH95), and a strong opinion that production-ready code starts at the first commit. I specialize in AI systems architecture, Microsoft Orleans, distributed systems, and the kind of .NET infrastructure that runs in production without drama.
 
-Made in Ukraine 🇺🇦
-
 ---
 
 #### Products
@@ -108,11 +106,11 @@ The **[Managed Code org](https://github.com/managedcode)** on GitHub is an open 
 ---
 
 <p align="center">
-  <a href="https://www.ksemenenko.com">website</a> ·
-  <a href="https://www.managed-code.com">managed code</a> ·
-  <a href="https://aibase.fr/">aibase</a> ·
-  <a href="https://dotpilot.managed-code.com/">dotpilot</a> ·
-  <a href="https://x.com/ksemenenk0">x</a> ·
-  <a href="https://www.linkedin.com/in/ksemenenk0">linkedin</a> ·
+  <a href="https://x.com/ksemenenk0">Twitter</a> |
+  <a href="https://www.ksemenenko.com">website</a> |
+  <a href="https://www.managed-code.com">managed code</a> |
+  <a href="https://aibase.fr/">aibase</a> |
+  <a href="https://dotpilot.managed-code.com/">dotpilot</a> |
+  <a href="https://www.linkedin.com/in/ksemenenk0">linkedin</a> |
   <a href="https://www.youtube.com/@managed-code">youtube</a>
 </p>
