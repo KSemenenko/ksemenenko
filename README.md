@@ -22,7 +22,7 @@ I'm Konstantin — founder & CTO at **[Managed Code](https://www.managed-code.co
 
 📊 **[Keyload](https://keyload.cloud/)** — monitoring, incident detection, and operational visibility for websites, APIs, and infrastructure.
 
-📚 **[dotnet/skills](https://github.com/dotnet/skills)** — contributing to the official .NET team's curated skills for AI coding agents.
+📚 **[dotnet-skills](https://github.com/managedcode/dotnet-skills)** — installable .NET skill catalog and CLI for Codex, Claude Code, GitHub Copilot, and Gemini.
 
 ---
 
@@ -32,7 +32,7 @@ I'm Konstantin — founder & CTO at **[Managed Code](https://www.managed-code.co
 |---------|-------------|
 | [GraphRAG for .NET](https://github.com/managedcode/graphrag) | .NET-first GraphRAG — indexing, semantic dedup, community detection, pluggable graph stores |
 | [MCAF](https://github.com/managedcode/MCAF) | Framework for building software products together with AI coding agents |
-| [dotnet/skills](https://github.com/dotnet/skills) | Official .NET team's skills & agents for AI coding assistants |
+| [dotnet-skills](https://github.com/managedcode/dotnet-skills) | Installable .NET skill catalog and CLI for Codex, Claude Code, GitHub Copilot, and Gemini.|
 | [MCPGateway](https://github.com/managedcode/MCPGateway) | Searchable MCP gateway for .NET |
 | [ClaudeCodeSharpSDK](https://github.com/managedcode/ClaudeCodeSharpSDK) | CLI-first .NET SDK for Claude Code workflows |
 | [CodexSharpSDK](https://github.com/managedcode/CodexSharpSDK) | CLI-first .NET SDK for OpenAI Codex workflows |
@@ -91,7 +91,8 @@ Orleans is also at the core of **dotPilot** (embedded silo inside the desktop ap
 
 The company is a boutique AI solutions agency based in France — we build AI-native systems on .NET for clients where production reliability is non-negotiable.
 
-The **[Managed Code org](https://github.com/managedcode)** on GitHub is an open source community for .NET developers — reliable, actively maintained, and community-driven. Made in Ukraine 🇺🇦 with ❤️
+The **[Managed Code org](https://github.com/managedcode)** on GitHub is an open source community for .NET developers — reliable, actively maintained, and community-driven. 
+Made in Ukraine 🇺🇦 with ❤️
 
 ---
 
